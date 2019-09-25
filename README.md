@@ -1,2 +1,2 @@
 # jplTest
-A sample of java repository
+A sample test of JPL's home page
